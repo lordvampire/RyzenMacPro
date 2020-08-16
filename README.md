@@ -13,7 +13,7 @@
 **Case:** Jonsbo ITX U1 
 **Wifi:**  BCM94360CS2 card with adapter from alibaba Replaced the original Intel card. 
 
-I used https://github.com/aluveitie/RyzenMacPro files and changed some Data in SCPI for USB porting and also to get sleep working. 
+I used https://github.com/aluveitie/RyzenMacPro files and changed some Data in ACPI for USB porting and also to get sleep working. 
 Some SSDT´s are deactivated other new ones are added. Not used or needed kexts are deactivated but still in the directory, if you want to test them.
 
 
